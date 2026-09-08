@@ -1,0 +1,80 @@
+{
+  "app": {
+    "title": "Recharge Demo",
+    "tagline": "Fast prepaid recharges & bill payments",
+    "platformNote": "React Native CLI Demo",
+    "currencySymbol": "₹",
+    "listTitle": "Popular plans",
+    "primaryActionLabel": "Add to cart",
+    "checkoutLabel": "Checkout",
+    "orderSuccessMessage": "Order placed successfully",
+    "emptyCartMessage": "Your cart is empty",
+    "emptyCartHint": "Browse plans and add one to get started."
+  },
+  "products": [
+    {
+      "id": "plan-239",
+      "title": "₹239 – Smart Saver",
+      "price": 239,
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=800&q=60",
+      "description": "28 days validity with 1.5GB/day high-speed data, unlimited calls and 100 SMS/day. Ideal for everyday users.",
+      "category": "Prepaid"
+    },
+    {
+      "id": "plan-299",
+      "title": "₹299 – Data Plus",
+      "price": 299,
+      "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?auto=format&fit=crop&w=800&q=60",
+      "description": "28 days validity with 2GB/day high-speed data, unlimited calls and 100 SMS/day. Great for streaming.",
+      "category": "Prepaid"
+    },
+    {
+      "id": "plan-479",
+      "title": "₹479 – Quarterly Lite",
+      "price": 479,
+      "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?auto=format&fit=crop&w=800&q=60",
+      "description": "56 days validity with 1.5GB/day high-speed data, unlimited calls and 100 SMS/day. Fewer recharges, more value.",
+      "category": "Prepaid"
+    },
+    {
+      "id": "plan-666",
+      "title": "₹666 – Long Validity",
+      "price": 666,
+      "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?auto=format&fit=crop&w=800&q=60",
+      "description": "84 days validity with 1.5GB/day high-speed data, unlimited calls and 100 SMS/day. Set it and forget it.",
+      "category": "Prepaid"
+    },
+    {
+      "id": "plan-719",
+      "title": "₹719 – Binge Pack",
+      "price": 719,
+      "image": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?auto=format&fit=crop&w=800&q=60",
+      "description": "84 days validity with 2GB/day high-speed data, unlimited calls, and bundled OTT subscription trials.",
+      "category": "Prepaid"
+    },
+    {
+      "id": "plan-2999",
+      "title": "₹2999 – Annual Max",
+      "price": 2999,
+      "image": "https://images.unsplash.com/photo-1533228100845-08145b01de14?auto=format&fit=crop&w=800&q=60",
+      "description": "365 days validity with 2.5GB/day high-speed data, unlimited calls and 100 SMS/day. Best value for the year.",
+      "category": "Prepaid"
+    },
+    {
+      "id": "bill-electricity",
+      "title": "Electricity Bill",
+      "price": 1240,
+      "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=800&q=60",
+      "description": "Pay your monthly electricity bill instantly. Demo amount shown for the current billing cycle.",
+      "category": "Utilities"
+    },
+    {
+      "id": "bill-broadband",
+      "title": "Broadband Bill",
+      "price": 899,
+      "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=800&q=60",
+      "description": "Clear your fiber broadband dues for uninterrupted internet. Demo amount for the current month.",
+      "category": "Utilities"
+    }
+  ]
+}
